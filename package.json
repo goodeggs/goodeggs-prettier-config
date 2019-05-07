@@ -12,5 +12,14 @@
   "bugs": {
     "url": "https://github.com/goodeggs/goodeggs-prettier-config/issues"
   },
-  "homepage": "https://github.com/goodeggs/goodeggs-prettier-config#readme"
+  "homepage": "https://github.com/goodeggs/goodeggs-prettier-config#readme",
+  "scripts": {
+    "release": "yarn publish && conventional-github-releaser"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.6.0",
+    "@commitlint/config-conventional": "^7.6.0",
+    "conventional-github-releaser": "^3.1.2",
+    "husky": "^2.2.0"
+  }
 }
