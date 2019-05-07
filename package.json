@@ -1,0 +1,16 @@
+{
+  "name": "@goodeggs/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Shared Prettier configuration used at Good Eggs.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodeggs/goodeggs-prettier-config.git"
+  },
+  "author": "Good Eggs <opensource@goodeggs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goodeggs/goodeggs-prettier-config/issues"
+  },
+  "homepage": "https://github.com/goodeggs/goodeggs-prettier-config#readme"
+}
